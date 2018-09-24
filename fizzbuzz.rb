@@ -11,6 +11,6 @@ def fizzbuzz(num)
     num % 5 == 0 
     puts "Buzz"
   else 
-    puts 
+    puts nil
   end
 end
