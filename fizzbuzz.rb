@@ -2,6 +2,6 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(num) 
   if 
-    fizzbuzz % num == 0 return "Fizz"  
+    num % 3 == 0 return "Fizz"  
   end
 end
